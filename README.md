@@ -27,8 +27,8 @@ O objetivo é entender a distribuição dos dados, identificar padrões, detecta
 - `MedHouseVal` – Valor mediano da casa (target).
 
 
-### 2.2 Chipotle Orders
-- **Origem:** [Dataset público do Chipotle](https://www.kaggle.com/datasets/chipotle/chipotle)
+### 2.2 Chipotle 
+- **Origem:** [Dataset público do Chipotle]([https://raw.githubusercontent.com/justmarkham/DAT8/master/data/chipotle.tsv])
 - **Colunas principais:**
 - `order_id` – Identificador do pedido.
 - `quantity` – Quantidade de cada item no pedido.
